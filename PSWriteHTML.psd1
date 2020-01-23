@@ -111,7 +111,7 @@
     'DiagramOptionsLayout', 'DiagramOptionsEdges', 
     'New-DiagramOptionsEdges', 'DiagramOptionsLinks', 
     'DiagramOptionsManipulation', 'DiagramOptionsNodes', 
-    'DiagramOptionsPhysics', 'New-HierarchicalTreeNode', 
+    'DiagramOptionsPhysics', 
     'HierarchicalTreeNode', 'Dashboard', 'Calendar', 'Chart', 'Container', 
     'Diagram', 'Footer', 'Header', 'Image', 'EmailList', 'Main', 'New-HTMLColumn', 
     'Panel', 'New-HTMLContent', 'Section', 'Tab', 'Table', 'EmailTable', 
